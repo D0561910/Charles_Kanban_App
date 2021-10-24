@@ -14,7 +14,7 @@ function SideBar(props) {
         className="flex items-center justify-center text-2xl
             h-16 bg-purple-600 text-white font-bold"
       >
-        Charles
+        Kanban
       </h1>
 
       <ul className="flex flex-col text-lg h-full">

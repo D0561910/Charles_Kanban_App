@@ -5,7 +5,7 @@
       {
         "id": 1,
         "priority": 0,
-        "title": "Company website redesign.",
+        "title": "Food-Menu-System.[backend api design]",
         "chat": 1,
         "attachment": 2,
         "assignees": [
@@ -16,10 +16,94 @@
       },
       {
         "id": 2,
-        "priority": 2,
-        "title": "Mobile app login process prototype.",
-        "chat": 10,
-        "attachment": 4,
+        "priority": 0,
+        "title": "Food-Menu-System.[Backend-api connect Mongo DB or Firebase database]",
+        "chat": 0,
+        "attachment": 0,
+        "assignees": [
+          {
+            "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "priority": 0,
+        "title": "Food-Menu-System.[Backend-api request data structure]",
+        "chat": 0,
+        "attachment": 0,
+        "assignees": [
+          {
+            "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "priority": 0,
+        "title": "Food-Menu-System.[Backend-api response data structure]",
+        "chat": 0,
+        "attachment": 0,
+        "assignees": [
+          {
+            "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "priority": 0,
+        "title": "Food-Menu-System.[Frontend redux-fetch data]",
+        "chat": 0,
+        "attachment": 0,
+        "assignees": [
+          {
+            "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "priority": 0,
+        "title": "Food-Menu-System.[Frontend redux-login data]",
+        "chat": 0,
+        "attachment": 0,
+        "assignees": [
+          {
+            "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "priority": 0,
+        "title": "Food-Menu-System.[Frontend login UI]",
+        "chat": 0,
+        "attachment": 0,
+        "assignees": [
+          {
+            "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "priority": 0,
+        "title": "Food-Menu-System.[Frontend list page UI]",
+        "chat": 0,
+        "attachment": 0,
+        "assignees": [
+          {
+            "avt": "https://randomuser.me/api/portraits/men/67.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "priority": 0,
+        "title": "Food-Menu-System.[Frontend order page UI]",
+        "chat": 0,
+        "attachment": 0,
         "assignees": [
           {
             "avt": "https://randomuser.me/api/portraits/men/67.jpg"
@@ -34,7 +118,7 @@
       {
         "id": 3,
         "priority": 1,
-        "title": "Research and strategy for upcoming project.",
+        "title": "Account viewer dropdown function",
         "chat": 0,
         "attachment": 3,
         "assignees": [
@@ -51,7 +135,7 @@
       {
         "id": 4,
         "priority": 2,
-        "title": "Dashboard layout redesign.",
+        "title": "Personal Blog UI",
         "chat": 13,
         "attachment": 2,
         "assignees": [
@@ -80,36 +164,12 @@
       {
         "id": 6,
         "priority": 0,
-        "title": "Review client spec document and give feedback.",
+        "title": "Backend Api for account recorder daily",
         "chat": 13,
         "attachment": 2,
         "assignees": [
           {
             "avt": "https://randomuser.me/api/portraits/men/75.jpg"
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "priority": 1,
-        "title": "Navigation designs",
-        "chat": 0,
-        "attachment": 0,
-        "assignees": [
-          {
-            "avt": "https://randomuser.me/api/portraits/men/68.jpg"
-          }
-        ]
-      },
-      {
-        "id": 8,
-        "priority": 2,
-        "title": "Create style guide based on previous feedback",
-        "chat": 5,
-        "attachment": 2,
-        "assignees": [
-          {
-            "avt": "https://randomuser.me/api/portraits/men/64.jpg"
           }
         ]
       }
