@@ -16,7 +16,7 @@ function TopBar(props) {
                 <AtSymbolIcon className="w-7 h-7 text-white"/>
                 <BellIcon className="w-7 h-7 text-white"/>
                 <div className="flex items-center text-white">
-                    <h3 className="font-bold mr-3">M. John Doe</h3>
+                    <h3 className="font-bold mr-3">Charles Sin</h3>
                     <Image src="https://randomuser.me/api/portraits/men/75.jpg"
                         width="36" height="36" objectFit="cover"
                         className=" rounded-full "/>
